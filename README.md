@@ -8,3 +8,6 @@ Secara umum, sistem ini memiliki beberapa fitur seperti registrasi pengguna, log
 Secara keseluruhan, aplikasi ini dirancang dengan alur yang sederhana dan mudah digunakan, sehingga pengguna dapat dnegan cepat memahami cara penggunaan sistem. Dengan adanya proyek ini, diharapkan dapat memberikan solusi dalam pengelolaan review film secara digital. 
 
 <img width="841" height="404" alt="image" src="https://github.com/user-attachments/assets/b32143e2-4929-45f3-9d18-ca97f33e094a" />
+
+<img width="781" height="360" alt="image" src="https://github.com/user-attachments/assets/73560113-d72e-498a-ba66-d665ee9cc250" />
+
